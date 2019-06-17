@@ -7,7 +7,8 @@ It's a simple project but has the potential to make product handling easier and 
 
 **TODO:**
 
- 1. Build 5 UI Pages with Routing and functionalities. 
+ 1. Build basic common components for the project. ```[IN PROGRESS]```
+ 2. Build 5 UI Pages with Routing and functionalities. 
 
 	 a. Add Products page
 
@@ -19,8 +20,8 @@ It's a simple project but has the potential to make product handling easier and 
 
 	 e. Log In / Sign Up Page 
 	 
-2. Build Database Schema
+3. Build Database Schema
 
-3. Implement functionality to download photos package (.zip).
+4. Implement functionality to download photos package (.zip).
 
 
